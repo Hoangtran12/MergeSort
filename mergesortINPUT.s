@@ -1,4 +1,4 @@
-#Hoang Tran (2021495360)
+
 #This program is implemented a bottom-up approach method to sort an array.
 #It will sort neighbort and put them into two sublists
 #then it will move the counter back to the midpoint, and start compare the element in each sublist again by pair,
